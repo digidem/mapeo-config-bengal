@@ -3,7 +3,7 @@
         "area", "breach", "fishing", "paddy", "temple", "mangrove", "river"
     ],
     "line": [
-		"line", "mangrove", "path", "river"
+		"line", "breach", "path", "river"
     ],
     "point": [
         "point", "breach", "fishing", "house", "mangrove", "paddy", "port", "school", "temple"

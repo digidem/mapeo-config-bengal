@@ -1,0 +1,26 @@
+<svg id="9567f34f-6c39-464c-a2d3-6471c5679b1e" data-name="iconos" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>AC</title>
+  <g>
+    <rect x="6" y="10" width="18" height="7" fill="#90d0b9"/>
+    <rect y="10" width="6" height="7" fill="#797039"/>
+    <rect x="18" y="17" width="1" height="1" fill="#54232e"/>
+    <rect x="12" y="17" width="1" height="1" fill="#54232e"/>
+    <rect y="17" width="1" height="1" fill="#54232e"/>
+    <rect x="5" y="17" width="1" height="1" fill="#54232e"/>
+    <rect x="23" y="17" width="1" height="1" fill="#54232e"/>
+    <polygon points="11 17 8 17 5 19 8 19 11 17" fill="#54232e"/>
+    <g>
+      <rect x="8" y="13" width="2" height="4" fill="#2ba54b"/>
+      <path d="M11,17H8V12h3ZM9,16h1V13H9Z" fill="#54232e"/>
+    </g>
+    <g>
+      <rect x="20" y="13" width="2" height="4" fill="#2ba54b"/>
+      <path d="M23,17H20V12h3Zm-2-1h1V13H21Z" fill="#54232e"/>
+    </g>
+    <path d="M19,15H12V10h7Zm-6-1h5V11H13Z" fill="#54232e"/>
+    <rect x="16" y="11" width="1" height="3" fill="#54232e"/>
+    <rect x="14" y="11" width="1" height="3" fill="#54232e"/>
+    <polygon points="0 10 3 5 6 10 0 10" fill="#797039"/>
+    <polygon points="3 5 6 10 24 10 21 5 3 5" fill="#2ba54b"/>
+  </g>
+</svg>

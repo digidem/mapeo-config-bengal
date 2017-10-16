@@ -1,0 +1,23 @@
+<svg id="5bd8365e-6d31-46c3-9659-6e25a1726d23" data-name="iconos" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <title>AC</title>
+  <g>
+    <rect x="30" y="45" width="60" height="27" fill="#90d0b9"/>
+    <rect x="10" y="45" width="20" height="27" fill="#797039"/>
+    <rect x="10" y="72" width="4" height="4" fill="#54232e"/>
+    <rect x="26" y="72" width="4" height="4" fill="#54232e"/>
+    <rect x="70" y="72" width="4" height="4" fill="#54232e"/>
+    <rect x="50" y="72" width="4" height="4" fill="#54232e"/>
+    <rect x="86" y="72" width="4" height="4" fill="#54232e"/>
+    <polygon points="48.06 72 39.98 72 31.02 80 39.1 80 48.06 72" fill="#54232e"/>
+    <rect x="41" y="57" width="6" height="14" fill="#2ba54b" stroke="#54232e" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="77" y="57" width="6" height="14" fill="#2ba54b" stroke="#54232e" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="54" y="48" width="16" height="15" fill="none" stroke="#54232e" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="58" y="49" width="2" height="13" fill="#54232e"/>
+    <rect x="64" y="49" width="2" height="13" fill="#54232e"/>
+    <rect x="55" y="52" width="3" height="3" fill="#54232e"/>
+    <rect x="66" y="52" width="3" height="3" fill="#54232e"/>
+    <rect x="60" y="56" width="4" height="4" rx="0.13" ry="0.13" fill="#54232e"/>
+    <polygon points="10 45 20 30 30 45 10 45" fill="#797039"/>
+    <polygon points="20 30 30 45 90 45 80 30 20 30" fill="#2ba54b"/>
+  </g>
+</svg>
