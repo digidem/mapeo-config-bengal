@@ -258,3 +258,22 @@ path.gpx {
     stroke: #F1D5EB;
     stroke-width: 2;
 }
+path.casing.tag-type-river {
+    stroke: #2898a4;
+    stroke-width: 5px;
+}
+
+path.stroke.tag-type-river {
+    stroke-width: 3px;
+}
+
+path.stroke.tag-type-path {
+    stroke: #88de63;
+    stroke-width: 2px !important;
+    stroke-linecap: butt;
+    stroke-dasharray: 6, 3;
+}
+path.casing.tag-type-path {
+    stroke: none !important;
+    /*stroke: #fff;*/
+}
