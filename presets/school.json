@@ -1,0 +1,11 @@
+{
+    "icon": "school",
+	"fields": ["owner"],
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+        "type": "school"
+    },
+    "name": "School"
+}

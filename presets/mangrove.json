@@ -6,9 +6,9 @@
         "point",
         "area"
     ],
-    "terms": ["mangrove"],
+    "terms": ["forest"],
     "tags": {
-        "type": "mangrove"
+        "type": "forest"
     },
-    "name": "Mangrove"
+    "name": "Forest"
 }

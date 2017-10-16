@@ -1,12 +1,12 @@
 {
     "area": [
-        "area"
+        "area", "breach", "fishing", "paddy", "temple", "mangrove", "river"
     ],
     "line": [
-		"line"
+		"line", "mangrove", "path", "river"
     ],
     "point": [
-        "point"
+        "point", "breach", "fishing", "house", "mangrove", "paddy", "port", "school", "temple"
     ],
     "vertex": [
     ],
