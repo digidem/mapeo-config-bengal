@@ -1,0 +1,17 @@
+{
+    "icon": "waterway-river",
+    "fields": [
+
+    ],
+    "geometry": [
+		"line",
+        "point", "area"
+    ],
+    "terms": [
+
+    ],
+    "tags": {
+        "type": "river"
+    },
+    "name": "River"
+}

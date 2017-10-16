@@ -1,0 +1,14 @@
+{
+    "icon": "temple",
+    "fields": [
+        "note"
+    ],
+    "geometry": [
+        "point",
+		"area"
+    ],
+    "tags": {
+        "type": "temple"
+    },
+    "name": "Temple"
+}

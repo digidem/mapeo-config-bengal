@@ -1,0 +1,11 @@
+{
+    "icon": "house",
+	"fields": ["owner"],
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+        "type": "house"
+    },
+    "name": "House"
+}

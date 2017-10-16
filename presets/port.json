@@ -1,0 +1,16 @@
+{
+    "icon": "port",
+    "fields": [
+        "note"
+    ],
+    "geometry": [
+        "point"
+    ],
+    "terms": [
+
+    ],
+    "tags": {
+        "type": "port"
+    },
+    "name": "Port"
+}

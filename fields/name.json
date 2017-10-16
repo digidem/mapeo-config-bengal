@@ -1,0 +1,6 @@
+{
+    "key": "name",
+    "type": "localized",
+    "label": "Nombre",
+    "placeholder": "Nombre común (si existe)"
+}

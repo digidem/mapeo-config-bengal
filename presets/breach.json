@@ -1,0 +1,14 @@
+{
+    "icon": "breach",
+    "fields": ["note", "source"
+    ],
+    "geometry": [
+        "point",
+        "line",
+        "area"
+    ],
+    "tags": {
+        "type": "breach"
+    },
+    "name": "Breach"
+}

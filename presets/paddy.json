@@ -1,0 +1,15 @@
+{
+    "icon": "paddy",
+	"fields": [
+		"note",
+        "owner"
+	],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "type": "paddy"
+    },
+    "name": "Paddy"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bing Online",
+    "type": "bing",
+    "description": "Satellite and aerial imagery.",
+    "template": "http://www.bing.com/maps/",
+    "scaleExtent": [
+      0,
+      22
+    ],
+    "id": "Bing"
+  },
+  {
+    "name": "Bing Offline",
+    "type": "tms",
+    "overzoom": true,
+    "description": "Satellite and aerial imagery.",
+    "template": "http://localhost:5005/gurgaon/{zoom}/{x}/{y}.jpg",
+    "scaleExtent": [
+      7,
+      13
+    ],
+    "default": true,
+    "polygon": [
+      [
+        [
+          52,
+          4
+        ],
+        [
+          52,
+          38
+        ],
+        [
+          105,
+          38
+        ],
+        [
+          105,
+          4
+        ],
+        [
+          52,
+          4
+        ]
+      ]
+    ]
+  }
+]
+

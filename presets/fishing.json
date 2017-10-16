@@ -1,0 +1,13 @@
+{    "icon": "fishing",
+    "fields": ["note"
+	],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [],
+    "tags": {
+        "type": "fishing"
+    },
+    "name": "Fishing"
+}

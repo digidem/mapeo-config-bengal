@@ -1,0 +1,14 @@
+{    "icon": "mangrove",
+    "fields": [
+        "note"
+	],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": ["mangrove"],
+    "tags": {
+        "type": "mangrove"
+    },
+    "name": "Mangrove"
+}

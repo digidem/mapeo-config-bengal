@@ -1,0 +1,14 @@
+{
+    "icon": "path",
+    "fields": ["note"
+    ],
+    "terms": [],
+    "geometry": [
+        "point",
+        "line"
+    ],
+    "tags": {
+        "type": "path"
+    },
+    "name": "Path"
+}
