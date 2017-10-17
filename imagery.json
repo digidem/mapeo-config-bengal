@@ -17,8 +17,8 @@
     "description": "Satellite and aerial imagery.",
     "template": "http://localhost:5005/gurgaon/{zoom}/{x}/{y}.jpg",
     "scaleExtent": [
-      7,
-      13
+      1,
+      18
     ],
     "default": true,
     "polygon": [
